@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+#object files for C
+*.o
+
 # Log file
 *.log
 
